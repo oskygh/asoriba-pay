@@ -1,0 +1,30 @@
+{
+  "name": "asoriba-pay",
+  "version": "1.0.0",
+  "description": "A node wrapper for Asoriba Pay",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskygh/asoriba-pay.git"
+  },
+  "keywords": [
+    "Node",
+    "Asoriba",
+    "Payment"
+  ],
+  "author": "Osborne ofosu Saka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskygh/asoriba-pay/issues"
+  },
+  "homepage": "https://github.com/oskygh/asoriba-pay#readme",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "husky": "^4.2.5",
+    "jest": "^26.0.1",
+    "pretty-quick": "^2.0.1"
+  }
+}
